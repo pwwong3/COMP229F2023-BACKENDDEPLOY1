@@ -8,8 +8,7 @@
   "devDependencies": {
     "@babel/core": "^7.22.5",
     "@babel/preset-env": "^7.22.5",
-    "babel-loader": "^9.1.2",
-    "concurrently": "^8.2.0",
+    "babel-loader": "^8.1.0",
     "nodemon": "^2.0.22"
   },
   "scripts": {
@@ -30,6 +29,6 @@
     "global": "^4.4.0",
     "helmet": "^3.22.0",
     "lodash": "^4.17.21",
-    "mongoose": "^5.9.7"
+    "mongoose": "5.9.7"
   }
 }
